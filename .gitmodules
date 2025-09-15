@@ -13,3 +13,12 @@
 [submodule "edgesdk_python_api_modbus"]
 	path = modbus_api/edgesdk_python_api_modbus
 	url = ../edgesdk_python_api_modbus.git
+[submodule "restapi/edgesdk_examplepython_rest"]
+	path = restapi/edgesdk_examplepython_rest
+	url = ../edgesdk_examplepython_rest.git
+[submodule "restapi/edgesdk_python_template_rest"]
+	path = restapi/edgesdk_python_template_rest
+	url = ../edgesdk_python_template_rest.git
+[submodule "restapi/edgesdk_examplecsharp_rest"]
+	path = restapi/edgesdk_examplecsharp_rest
+	url = ../edgesdk_examplecsharp_rest.git
