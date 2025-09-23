@@ -1,0 +1,17 @@
+{
+  "name": "Debian Dev",
+  "image": "debian:bookworm",
+  "workspaceFolder": "/workspace",
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workspace,type=bind"
+  ],
+  "settings": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "ms-vscode.cpptools"
+      ]
+    }
+  }
+}      
